@@ -1,0 +1,9 @@
+{
+    "Keys": ["tcpnmea"],
+    "Provider": "tcpnmea",
+    "Position": true,
+    "Satellite": false,
+    "Monitor" : false,
+    "Priority": 1000,
+    "Testable": false
+}
