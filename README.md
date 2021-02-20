@@ -1,1 +1,1 @@
-NMEA TCP plugin based on serialnmea
+Qt5 NMEA TCP plugin based on serialnmea
